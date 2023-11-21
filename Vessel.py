@@ -3,7 +3,7 @@ def __init__(self, coordinates, weapon, hits):
     self.coordinates= coordinates
     self.weapon = Weapon
     self.hits = 0
-
+jfjyfguofyuo
 def go_to(self, x,y,z):
     self.coordinates = (x, y, z)
 
